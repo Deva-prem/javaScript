@@ -1,2 +1,2 @@
 # javaScript
-Learning javascript fromstart 
+Learning javascript from start 
